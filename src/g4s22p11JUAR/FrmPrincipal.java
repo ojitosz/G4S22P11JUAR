@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package g4s22p11aggr;
+package g4s22p11JUAR;
 
 import com.google.gson.Gson;
 
